@@ -62,3 +62,40 @@ reconstructed = np.transpose(reconstructed, (1, 2, 0))
 plt.imshow(reconstructed)
 plt.axis('off')
 plt.show()
+```
+
+## Lab2:- 
+Statistics and Probability: Fundamentals
+---
+### Random Events & Simulations
+- Simulating coin flips and dice rolls
+- Visualizing outcomes with pie charts and bar plots
+
+### Probability Distributions
+- Working with **Bernoulli**, **Binomial**, and **Poisson** distributions
+- Plotting **Normal distributions**
+- Demonstrating the **Central Limit Theorem**
+
+### Theory vs Experiment
+- Comparing empirical results with theoretical expectations
+- Concept of **Regression to the Mean**
+
+### Card-Based Probability
+- Drawing cards with/without replacement
+- Exploring cut-deck probabilities
+
+### Expected Values
+- Simulating repeated trials to understand expected outcomes
+- Examples: drawing cards until an Ace appears
+
+### Measurement Errors
+- Comparing squared and absolute errors
+- Visual representation of Mean Squared Error
+
+### Z-Scores & Standardization
+- Normalizing scores from multiple tests (e.g. Math, Bio, Physics)
+- Creating comparable distributions
+
+### Random Variables
+- Discrete vs Continuous variables
+- Working with `scipy.stats` for CDFs, PDFs, and quantiles
