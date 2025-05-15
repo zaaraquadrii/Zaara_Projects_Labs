@@ -64,8 +64,7 @@ plt.axis('off')
 plt.show()
 ```
 
-## Lab2:- 
-Statistics and Probability: Fundamentals
+## Lab2:- Statistics and Probability: Fundamentals
 ---
 ### Random Events & Simulations
 - Simulating coin flips and dice rolls
